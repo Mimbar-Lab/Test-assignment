@@ -8,9 +8,10 @@ By the end of this lab my user stories have acceptance criteria, my requirements
 ### Sprint backlog
 | Issue | Task | Status |
 |-------|------|--------|
-| #1 | Add acceptance criteria to each user story | To do |
-| #2 | Number the requirements and link each story to one | To do |
+| #1 | Add acceptance criteria to each user story | Done |
+| #2 | Number the requirements and link each story to one | Done |
 | #3 | Add structure and roadmap to the README | To do |
+| #4 | Add evidence to the problem statement | To do |
 
 Backlog for after the lab (not in this sprint):
 - Add evidence to the problem statement
